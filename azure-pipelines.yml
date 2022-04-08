@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: B-5093
+  name: Default
   vmImage: ubuntu-latest
 strategy:
   matrix:
